@@ -10,3 +10,5 @@ birth_year = int(input("შეიყვანეთ თქვენი დაბ
 age = year - birth_year
 
 print("გამარჯობა,", name, surname, "თქვენ ხართ:", age, "წლის")
+
+
